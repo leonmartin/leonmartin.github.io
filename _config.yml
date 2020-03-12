@@ -5,6 +5,6 @@ description: This page contains links to Leon Martin's web appearances.
 # User settings
 username: Leon Martin
 user_description: Leon Martin
-user_title: Research Associate & PhD Candidate
+user_title: Research Associate & PhD Candidate in Computer Science
 
 exclude: ['package.json', 'src' , 'node_modules']
