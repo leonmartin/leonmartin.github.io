@@ -6,9 +6,5 @@ description: This page contains links to Leon Martin's web appearances.
 username: Leon Martin
 user_description: Leon Martin
 user_title: Research Associate & PhD Candidate
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  leonmartin
-linkedin_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
