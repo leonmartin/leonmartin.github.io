@@ -4,7 +4,7 @@ description: This page contains links to Leon Martin's web appearances.
 
 # User settings
 username: Leon Martin
-user_description: Leon Martin
+user_description: I am a research associate and PhD candidate at the University of Bamberg, Germany. For more information, please follow the links above.
 user_title: Research Associate & PhD Candidate in Computer Science
 
 exclude: ['package.json', 'src' , 'node_modules']

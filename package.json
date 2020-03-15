@@ -2,11 +2,11 @@
   "name": "particle",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
+  "author": "Nathan Randecker, Leon Martin",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
