@@ -1,10 +1,10 @@
 # Site settings
 title: Leon Martin's Homepage
-description: This page contains links to Leon Martin's web appearances.
+description: This page contains links to Leon Martin's professional web appearances.
 
 # User settings
 username: Leon Martin
 user_description: Leon Martin
-user_title: Research Associate & PhD Candidate in Computer Science
+user_title: Research Associate and Doctoral Student in Computer Science
 
 exclude: ['package.json', 'src' , 'node_modules']
