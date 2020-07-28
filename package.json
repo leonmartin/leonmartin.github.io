@@ -2,11 +2,11 @@
   "name": "particle",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
+  "author": "Nathan Randecker, Leon Martin",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
@@ -16,6 +16,7 @@
     "gulp-imagemin": "^5.0.3",
     "gulp-plumber": "^1.2.1",
     "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.1"
+    "gulp-uglify": "^3.0.1",
+    "yarn": "^1.22.4"
   }
 }
