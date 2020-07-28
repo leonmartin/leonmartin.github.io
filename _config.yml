@@ -7,4 +7,4 @@ username: Leon Martin
 user_description: Leon is an enthusiastic computer scientist who enjoys the combination of research and teaching at the unversity. During his undergraduate and graduate programs, he focused on software engineering, information retrieval, human-computer interaction, and machine learning. In the context of a students project, his team participated in and won an international machine learning competition in 2016. Currently, his research revolves around information retrieval, natural language processing, and knowledge graph related topics. His role as an academic advisor complements his teaching duties.
 user_title: Research Associate and Doctoral Student in Computer Science
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src', 'node_modules']
