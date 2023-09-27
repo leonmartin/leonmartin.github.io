@@ -4,7 +4,8 @@ description: This page contains links to Leon Martin's professional web appearan
 
 # User settings
 username: Leon Martin
-user_description: Leon is an enthusiastic computer scientist who enjoys the combination of research and teaching at the university. During his undergraduate and graduate programs, he focused on software engineering, information retrieval, human-computer interaction, and machine learning. In the context of a student project, his team participated in and won an international machine learning competition in 2016. Currently, his research revolves around information retrieval, natural language processing, and knowledge graph related topics. His role as an academic advisor complements his teaching duties.
-user_title: Research Associate and Doctoral Student in Computer Science
+user_description: I hold both a Bachelor's and Master's degree in Applied Computer Science, which have provided a strong foundation for my career in technology. Currently, I'm in the final stages of completing my PhD program, where my research and interests have been focused on knowledge graphs, data science, and natural language processing.\n Once my PhD is finished, I'm open to opportunities in the industry. I believe that the skills and insights gained from my academic journey can bring a unique perspective to practical applications. With a natural curiosity and an analytical mindset, I thrive on embracing new challenges and continuously expanding my knowledge in computer science.
+
+user_title: Research Associate and PhD Candidate @ University of Bamberg
 
 exclude: ['package.json', 'src', 'node_modules']
