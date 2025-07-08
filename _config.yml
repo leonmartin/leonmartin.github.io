@@ -4,8 +4,7 @@ description: This page contains links to Leon Martin's professional web appearan
 
 # User settings
 username: Leon Martin
-user_description: I hold both a Bachelor's and Master's degree in Applied Computer Science, which have provided a strong foundation for my career in technology. Currently, I'm in the final stages of completing my PhD program, where my research and interests have been focused on knowledge graphs, data science, and natural language processing. Once my PhD is finished, I'm open to opportunities in the industry. I believe that the skills and insights gained from my academic journey can bring a unique perspective to practical applications. With a natural curiosity and an analytical mindset, I thrive on embracing new challenges and continuously expanding my knowledge in computer science.
+user_description: As a Data Scientist with a background in symbolic knowledge representation, I specialize in complex data analyses and the development of innovative data-heavy applications. My work focuses on introducing sustainable AI and data strategies in companies, streamlining business processes, and generating value from data. I'm a firm believer in viewing ethical values as business values, taking an end-to-end approach, and recognizing the needs and perspectives of individual stakeholders.
+user_title: Data Scientist, Dr. rer. nat. (University of Bamberg)
 
-user_title: Research Associate and PhD Candidate @ University of Bamberg
-
-exclude: ['package.json', 'src', 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
