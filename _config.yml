@@ -1,10 +1,10 @@
 # Site settings
 title: Leon Martin's Homepage
-description: This page contains links to Leon Martin's professional web appearances.
+description: This page contains links to my professional web appearances.
 
 # User settings
 username: Leon Martin
 user_description: As a Data Scientist with a background in symbolic knowledge representation, I specialize in complex data analyses and the development of innovative data-heavy applications. My work focuses on introducing sustainable AI and data strategies in companies, streamlining business processes, and generating value from data. I'm a firm believer in viewing ethical values as business values, taking an end-to-end approach, and recognizing the needs and perspectives of individual stakeholders.
-user_title: Data Scientist, Dr. rer. nat. (University of Bamberg)
+user_title: Dr. rer. nat. | Data Scientist
 
 exclude: ["package.json", "src", "node_modules"]
