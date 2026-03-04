@@ -4,7 +4,7 @@ description: This page contains links to my professional web appearances.
 
 # User settings
 username: Leon Martin
-user_description: As a Data Scientist with a background in symbolic knowledge representation, I specialize in complex data analyses and the development of innovative data-heavy applications. My work focuses on introducing sustainable AI and data strategies in companies, streamlining business processes, and generating value from data. I'm a firm believer in viewing ethical values as business values, taking an end-to-end approach, and recognizing the needs and perspectives of individual stakeholders.
-user_title: Dr. rer. nat. | Data Scientist
+user_description: With a background in symbolic knowledge representation, I bridge theory and practice in data and AI. I help organizations implement ethical data and AI strategies that actually work by streamlining processes, automating workflows, and turning isolated data into actionable insights. Having led several initiatives in this context (both in academia and industry), I've learned that the best solutions come from attending to the human role in the data lifecycle.
+user_title: Dr. rer. nat. | Lead Data and AI Architect
 
 exclude: ["package.json", "src", "node_modules"]
